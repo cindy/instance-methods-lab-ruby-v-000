@@ -1,6 +1,6 @@
 class Dog
-  def bark(sound)
-    puts sound
+  def bark
+    puts "Woof!"
   end
 
   def sit
